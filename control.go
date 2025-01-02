@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main3() {
 	//number := []int{1, 2, 3, 4, 5, 6, 7, 8}
 
 	users := map[string]int{
