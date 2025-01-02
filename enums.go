@@ -19,6 +19,6 @@ func getDamage(weaponType string) int {
 	}
 }
 
-func main() {
+func main2() {
 	fmt.Println("the damage caused is:", getDamage("axe"))
 }
