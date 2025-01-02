@@ -12,7 +12,7 @@ func (player Player) getHealth() int {
 	return player.health
 }
 
-func main() {
+func main1() {
 	// player := Player{
 	// 	name:        "scar face",
 	// 	health:      101,
