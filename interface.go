@@ -38,7 +38,7 @@ func main() {
 
 	var s Shape
 
-	s = Circle{radius: 5}
+	s = Circle{radius: 10}
 	fmt.Println("Area:", s.Area())
 	fmt.Println("Perimeter:", s.Perimeter())
 
