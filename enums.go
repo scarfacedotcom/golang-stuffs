@@ -5,7 +5,7 @@ import "fmt"
 func getDamage(weaponType string) int {
 	switch weaponType {
 	case "axe":
-		return 30
+		return 40
 	case "sword":
 		return 20
 	case "knife":

@@ -23,7 +23,7 @@ type ApiSever struct {
 	numberStore NumberStorer
 }
 
-func main() {
+func main4() {
 	apiServer := ApiSever{
 		numberStore: MongoDBNumberStore{},
 	}
