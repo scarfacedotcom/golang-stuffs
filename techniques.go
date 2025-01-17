@@ -15,7 +15,7 @@ type SpecialEntity struct {
 	specialField float64
 }
 
-func main() {
+func main65() {
 	e := Entity{
 		name:    "scar face",
 		id:      "id 1",
